@@ -4,3 +4,4 @@ class Dog
       character
     end
 end
+end
