@@ -1,7 +1,8 @@
 class Dog 
-  def mydog(name)
-    name.each do |character|
-      character
-    end
-end
+  def fido 
+  end 
+  def snoppy 
+  end 
+  def lassie 
+  end
 end
