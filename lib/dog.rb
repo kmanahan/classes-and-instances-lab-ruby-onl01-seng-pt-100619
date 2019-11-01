@@ -1,3 +1,4 @@
 class Dog 
   
-  mydog = "pete"
+  def mydog(name)
+  end
